@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="单元测试" type="PLAIN_TEXT" />
+      <mapping pattern="控制流" type="PLAIN_TEXT" />
+      <mapping pattern="类" type="PLAIN_TEXT" />
+      <mapping pattern="函数" type="PLAIN_TEXT" />
+      <mapping pattern="名字" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

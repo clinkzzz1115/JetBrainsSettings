@@ -1,0 +1,53 @@
+<keymap version="1" name="Mac OS X 10.5+ copy 0" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="CloseContent" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="CreateJavaeeWebPageAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="WelcomeScreen.Settings">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="hg4idea.QRefresh" />
+</keymap>
